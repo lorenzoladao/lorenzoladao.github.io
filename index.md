@@ -4,27 +4,17 @@ I'm a senior computer science student at Rutgers University in New Jersey.
 
 # My Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Friends Shortest Path
 
-```markdown
-Syntax highlighted code block
+[code](https://github.com/lorenzoladao/CS112-Breath-First-Search-Problem)
 
-# Header 1
-## Header 2
-### Header 3
+## Election Database Backend
 
-- Bulleted
-- List
+[demo](https://youtu.be/BFFUAFjAJ1c)  [code]()
 
-1. Numbered
-2. List
+## Pizza Order App
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[demo]()  [code]()
 
 # Skills
 
