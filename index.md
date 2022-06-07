@@ -43,4 +43,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Contact Me
 
-You can contact me at lorenz.ladao@gmail.com, [github] (https://github.com/lorenzoladao), or [linkedin] (https://www.linkedin.com/in/lorenzo-ladao-6422271a2/).
+You can contact me at lorenz.ladao@gmail.com, [github](https://github.com/lorenzoladao), or [linkedin](https://www.linkedin.com/in/lorenzo-ladao-6422271a2/).
