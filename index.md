@@ -6,21 +6,23 @@ I'm a senior computer science student at Rutgers University in New Jersey.
 
 ## Friends Shortest Path
 
-Java program that implements a breadth-first search algorithm to find three different information of a graph, its. Problem was to calculate a shortest path from a starting vertex in a graph to each other vertex. The vertices represent people and each person is related to every other person through parent-child relationships. A person can see how they are related to each other person in the tree.
+Java program that implements a breadth-first search algorithm to find three different information of a graph, the shortest chain, cliques, and connectors. Problem was to calculate a shortest path from a starting vertex in a graph to each other vertex. The vertices represent people and each person is related to every other person through friendships. Other problems were to find cliques which are students in the same school and to find connectors which are vertices that are needed to connect all other vertices to each other.
 
 [code](https://github.com/lorenzoladao/CS112-Breath-First-Search-Problem)
 
-## Election Database Backend
+## Tuition Manager
 
+Worked on a team of three students to devlop a GUI in Java for a tuition manager. A user can create student profiles can keep track of all students tuition that is due and check when their last tuition payment was last updated.
 
-
-[demo](https://youtu.be/BFFUAFjAJ1c)  [code]()
+[code](https://github.com/lorenzoladao/cs213-Project-3)
 
 ## Pizza Order App
 
 Worked on a team of three students to develop an android app in Java for managing pizza orders. Users can take orders of customizable pizzas, place the order, and cancel them. Users can also check all orders placed by the user. Used Android Studio to create the GUI.
 
-[demo](https://youtu.be/R2TnjQmA4Go)  [code](https://github.com/lorenzoladao/CS213-Pizza-Order-App)
+[demo](https://youtu.be/R2TnjQmA4Go)
+
+[code](https://github.com/lorenzoladao/CS213-Pizza-Order-App)
 
 # Skills
 
