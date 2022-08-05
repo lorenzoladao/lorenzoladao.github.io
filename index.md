@@ -1,6 +1,6 @@
 ## Hi, I'm Lorenzo
 
-I'm a senior computer science student at Rutgers University in New Jersey.
+I am currenlty a senior majoring in computer science student at Rutgers University in New Jersey.
 
 # My Projects
 
@@ -32,12 +32,14 @@ Worked on a team of three students to develop an android app in Java for managin
 - Python
 - C
 - SQL
+- -RISC-V Assembly
 
 ## Tools
 
 - MySQL
 - Git: Github
 - JUnit
+- Unix/Linux
 
 # Contact Me
 
